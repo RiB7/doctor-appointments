@@ -1,13 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import {
-    Box,
-    Typography,
-    Card,
-    CardMedia,
-    Button
-} from '@mui/material';
+import {Box, Typography, Card, CardMedia, Button} from '@mui/material';
 import dayjs from 'dayjs';
 import axios from 'axios';
 
